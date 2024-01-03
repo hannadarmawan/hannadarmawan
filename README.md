@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hannadarmawan
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS, JS, PHP, MySQL & Laravel 
+- 🌱 I’m currently learning HTML, CSS, JS, PHP, MySQL, Laravel, Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
